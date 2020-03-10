@@ -1,0 +1,20 @@
+using System;
+
+namespace SimplifyCode
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Essa é a _classe");
+
+            Console.WriteLine("essa é a _tabela");
+
+            Console.WriteLine("Essa é a _classe 2");
+
+            Console.WriteLine("essa é a _tabela 2");
+
+            Console.ReadKey();
+        }
+    }
+}
